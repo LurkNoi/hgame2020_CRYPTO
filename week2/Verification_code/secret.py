@@ -1,0 +1,1 @@
+FLAG = b'hgame{It3Rt0O|S+I5_u$3fu1~Fo2_6rUtE-f0Rc3}'

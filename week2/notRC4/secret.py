@@ -1,0 +1,1 @@
+flag = b'hgame{reV3r$e~tH3-pRG4_0F_RC4}'

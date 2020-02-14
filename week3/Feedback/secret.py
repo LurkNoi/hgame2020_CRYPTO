@@ -1,0 +1,3 @@
+MESSAGE = b"FLAG is hgame{51b72d4cd23b2fe672a874cb44020868}."
+
+FLAG = b"hgame{51b72d4cd23b2fe672a874cb44020868}"
